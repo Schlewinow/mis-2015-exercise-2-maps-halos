@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HelloMaps</string>
     <string name="title_activity_maps">Map</string>
+    <string name="input_hint">Marker text goes here</string>
 </resources>

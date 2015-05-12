@@ -21,9 +21,13 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <meta-data
+        <!--<meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="@string/google_maps_key" />-->
+        <!--F2:4C:40:6E:A4:62:60:DF:4F:AF:7B:2B:2B:F6:68:1D:05:72:F7:26;com.example.mmbuw.hellomaps-->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCeMh4dcLcsBmUQMITROCnZHvMu3PqLi3I"/>
 
         <activity
             android:name=".MapsActivity"
